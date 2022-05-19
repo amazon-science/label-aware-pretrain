@@ -47,5 +47,5 @@ torchvision==0.9.1
 tqdm==4.49.0
 transformers==4.6.0
 typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
-urllib3==1.26.4
+urllib3==1.26.5
 xxhash==2.0.2
