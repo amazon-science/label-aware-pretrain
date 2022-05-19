@@ -1,0 +1,7 @@
+{"translation": {"src": "Add tune to infinite indie folk", "tgt": "add to playlist", "prefix": "intent classification: "}}
+{"translation": {"src": "book a spot at a highly rated tavern in Colombia", "tgt": "book restaurant", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it forecast to be warm in Doi Inthanon National Park ?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Play me a Cinder Block movement", "tgt": "play music", "prefix": "intent classification: "}}
+{"translation": {"src": "rate the following series five points", "tgt": "rate book", "prefix": "intent classification: "}}
+{"translation": {"src": "Please find the novel , Good Doctor", "tgt": "search creative work", "prefix": "intent classification: "}}
+{"translation": {"src": "Can I get the movie times for films in the neighborhood ?", "tgt": "search screening event", "prefix": "intent classification: "}}

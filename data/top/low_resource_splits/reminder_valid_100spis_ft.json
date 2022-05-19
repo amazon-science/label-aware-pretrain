@@ -1,0 +1,837 @@
+{"translation": {"src": "Set a weekly reminder for taking the recycling out on Tuesdays.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I haven't started packing for my trip yet; please set a reminder to start packing tonight.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind the fantasy football group about the Live Draft this Saturday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to go to mail the letter to India tomorrow.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to get gas for my car at 8:00 am on Saturday morning", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me at 5 pm to make dinner.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to take my medication at 8 p.m. Friday evening.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to pick up kids from soccer tonight.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to pick up the mail.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me that I have an appointment with my financial advisor tomorrow at 3:30 p.m.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set an alert for PJ to take her medication every morning at 7 pm and every evening at 8 pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind Jane to visit her grandmother at 1 PM tomorrow.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to eat breakfast", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind Lauren to buy her mom a gift", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me every Friday to cash my check", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind my mother to drop off my backpack tonight at 8pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to tell Joe about my conversation", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Construct a reminder for the PTA meeting on Monday at 6:30pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Start a new reminder for Friday at 8 am", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to order flowers for the funeral tomorrow.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder to purchase tickets for the concert on August 18", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder to change the heating filter on  the 5th of each month", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to set timer on the coffee maker to make at 6:00 am", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need you to remind me to get pepper", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to drop off my car for the estimate.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Add reminder to return library books tomorrow.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to take my mom's dog for a walk Saturday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set reminder for dr apointment", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind the team of the staff meeting Friday at 3 pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me that payday is on the 13th of each month", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to pay the electric bill on Friday at 3 pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to take out the garbage bins on Friday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set reminder in 15 minutes", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to watch Big Brother at 8 pm on Sunday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind Miya at 4:30 that Mommy is almost home and we will go potty soon.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me about Tony's birthday next week", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to buy milk tonight", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me my show starts at 9 pm", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to close garage door", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Create a reminder for Candace to clean her room before I get home tonight.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind my husband to go to bed at 11 pm every night", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to buy a gift for the birthday party.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to check the work voicemail before i go on vacation friday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder for Augie to get the mail at 6pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly reminder at 7:00 pm for my bible study meeting.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "On Saturdays and Sundays, remind me of how thankful I am for everything I have!!", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to check the smoke alarm batteries", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to get party supplies today please remind me", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you remind me to send a message to the facebook buyer to confirm our meeting time on Saturday?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder for September 1st.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder for 15 minutes to remove the paint strip tape from the walls", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Send Jay a reminder about the party Saturday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "place a reminder on the calendar about bob's party on oct 16th", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to take out the trash Sunday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Make a reminder for tomorrow's appointment.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me about dinner tomorrow night at 6 PM", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me Wednesday that my library books have to be returned by the end of the week.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you set up a daily alert to refill water container at 10:00am?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Reminnd me that I should be nice", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me daily to workout.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "alert me 15 minutes before my 10 am meeting tomorrow", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a reminder to start my new job at 8:00 a.m. on Friday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me tomorrow about my test on Thursday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to return the wedding gift", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "don't let me forget to walk the dog every day at 5:30 p.m.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a reminder to wake up at 11pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Create a reminder for 9/17 to send Aunt Susan a floral arrangement for her birthday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind rich to move the car from the driveway tomorrow morning", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to refill text messages on August 28 at 12:00pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to feed the cat at 7 am", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me that dad is coming over to look at a/c unit.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to complete the financial statements by the end of this mont", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you remind me to buy flowers online for my mother-in-law's happy day?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to leave at 5pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to do laundry every Friday night at 6 p.m.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind the AA group that we have a meeting tomorrow at 5pm", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me about the next time Hamilton plays at the theater.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to take the garbage out every Monday morning.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to clean my purse out today", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind Charles about his haircut tomorrow at 10:30am is the new salon's location!", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you remind me about my doctor's appointment in one week from today?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to set the alarm for 5 a.m. tomorrow.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to get ready for the interview one hour before the travel time", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to set up the Collective Radio Network Board Member meetings on the first Wednesday of each month at 8 p.m.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to get a play gym for inside for the kids", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need a monthly reminder to change air conditioner filters.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to pack for my trip, can you remind me Thursday at 4pm?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Alert me to the reminders for July 4ths dinner 20 minutes before they begin.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to water the plants everyday this week at 10AM", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you set a reminder to put out the recycling every other Sunday night, starting tonight?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to pay my car payment", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to get up in 5 minutes", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Starting this week, remind me every other Wednesday night at 8 to put out the recycling.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to buy diapers", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Create reminder to pick up Remi from daycare at 2pm tomorrow.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to get up tomorrow at 4am", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder for every Friday for the team to pull the Client reports", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me in six months to go to the dentist", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set a reminder to drink water", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to get eggs when i go shopping", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me 2hours before that Ted's flight lands at noon this Friday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to take my pills every morning at 6 am.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me about my 4pm doctor appointment", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to email project by 10 am Thursday to john", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to set up reminder to go to the bathroom every day at 8 am and  12 pm and 6 pm", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need an alert at 9 AM every morning to start work.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please remind me to send an email to jody after 4 P.M.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind Cole to leave for soccer at 5 sent alert at 4:30", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Create a reminder to purchase and change out air filters on the first of every month.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to take the kids' passports Saturday to certification.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a daily reminder for my after dinner walks at 6pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "recurring reminder for theatre night Fridays at 8pm", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to start dinner before 4pm everyday this week", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I don't want to miss the 10am train, remind me at 9:30am", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly reminder about sending get well cards every Monday to the church members.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "create reminder to pay bills on the 1st every month", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder to give my dog antibiotics every 12 hours.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set a reminder to put out the recycling can every Monday night.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly reminder for Alisha to water the hydrangea beginning on Sunday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Next week is Phil's retirement party, remind me about it on Monday morning", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to e-mail the dog trainer about Trixie.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set an alert for me to get an oil change every 3 months.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Create a weekly reminder for 6pm yoga class", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to set up Family Reunion Photo session with the photographer on September 1st at noon.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to clean bathrooms every Saturday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Need to get stuff for lasagna Friday....remind me  Thursday night", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly reminder at 4pm Sunday to make a nice dinner.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to Learn a new skill every Friday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set up a weekly reminder to email the team about the lunch meetings every friday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "can you remind jackson to leave at 4 tomorrow and alert him a half hour before", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to take trash out every Sunday night.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "can I get a reminder for my wife to make sure we buy those tickets this weekend.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me on Saturday to confirm dinner with Antonia for following week", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to take my medication at 11 p.m. And again at 11 a.m. Schedule for every day", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please remind me to send an email to jody after 4 P.M.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Create daily reminder for Amy to water plants and the flower bed at 10am while we're on vacation.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to check the mail at 3 PM daily", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set reminder for third Tuesday every month for MHC meetings.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a daily reminder at 11:00 to stretch and meditate", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to write the notes on each Saturday and Wednesday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me every hour to drink water", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set up a daily reminder at 7:30 am to take my birth control", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me tomorrow morning to email Edward about his car.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly reminder to group email everyone about our Friday meetings.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder to turn on my alarm every Sunday at 5:00 PM.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a monthly reminder to pay mortgage.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Send reminder 20 minutes before appointment tomorrow.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to take out the recycling tonight; can you remind me at 8pm?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind Bhaskar to vacuum the house every Saturday, starting tomorrow.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "i'd like to set up a daily reminder at 11:30 that i need to get lunch ready for the kids.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set up a monthly reminder to purchase dog food for penny our pug", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set weekly reminder to buy diapers", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need a reminder every Wed at 530pm to get ready for church", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "School starts in two weeks, remind me one week before.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set an alert every 2nd Friday as PayDay.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to email the publisher by the end of the day today.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a weekly reminder on Mondays at 7pm to bring the trash cans to the curb.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to start cooking at 4 pm every Monday through Friday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly reminder to clean the bathroom on Wednesday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to set up coffee every night", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need an reminder to be set up 10 minutes before 3 PM daily.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "The volleyball team needs to be reminded to bring their water every morning.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to text Lisa tomorrow morning at 8am", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a daily reminder for the D.I.Y. podcast at 9 am.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to feed the dogs when I get home from work every day.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me monthly for 12 months to use my airline credit", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "can you remind me when its time to leave for my dinner date with samantha tonight", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Could you remind me to pick up tickets for Les Miserables today after work?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set weekly reminder to write an article for the paper.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me later to email Karin about Saturdays event", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind the group to meet at 7am for class.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to pick up Redbox movies tonight for movie night at 4:00 p.m.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please remind me at 4 pm on Mondays, Tuesdays, and Thursdays, to take my daughter to soccer practice.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind my son to pick up his uniform", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to meet with Lisa tomorrow morning at 10 AM", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set a reminder for my 2 pm meeting", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you remind me to take out the trash every Wednesday?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "9 pm appointment for photos and remind me an hour before", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me every Thursday to set the trash cans out", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind Ashley and Jim that our meeting tomorrow is at 6:00 pm, send them a reminder 30 min before.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you send a reminder to my sister about meeting on Thursday at 6 pm?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder for Tuesday to pay the phone bill on Friday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set reminder for this weekend barbecue.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to make a casserole for a party tomorrow, can you remind me today at 7 ?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a monthly reminder to get the oil changed in the car.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a recurring reminder to clean the sink every night", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder an hour before my 5 pm meeting.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to take my pill every day at 8am.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly Friday reminder to pay bills.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly reminder for me to purchase the Microsoft license on Monday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a reminder to buy distilled water for cleaning the fish tank every Saturday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a monthly reminder for transferring rent to the landlord.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to arrive early for my meeting tonight, please alert me at 5:30?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me Tuesday morning about pot luck that night.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to stay positive everyday at 8am", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set a reminder for every thursday to put 5 dollars in my back account", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a 1 hour before reminder for my video meeting at 10 am.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set monthly reminder to pay rent", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need a reminder for 4:10 everyday to take medication", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please remind me every day next week to pick up my grand daughter after school at 3 pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to message mom each day at 4pm", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up reminder to watch the Walking Dead on Sundays.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly reminder for Emma to clean her room every Monday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up daily reminder to take meds in the morning.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please remind me on Tuesday I need to change my work schedule for next week.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Weekly reminder for takeout on Friday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Setup a daily reminder to share my Poshmark closet", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "i dont want to miss days of our lives today at 1pm can you alert me 10 minutes before", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a daily reminder for Tom to walk the dog every am.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly reminder for Jaden's karate practice starting Saturday at 8:00 am; Remind me 20 minutes before", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to conference with my sister about my mother's birthday party detail.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to leave 15 min before my appointment", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "i need to set up a sales meeting next week, can you remind me to do that today", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set a reminder to get the concert tickets by Friday and use the coupon", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you remind me that next Thursday is John's birthday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "can you alert me 15 minutes before today's baseball game at 630?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder two hours before my 2 pm conference.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me Saturday at 9AM to buy teacher gifts for Monday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a reminder for my brother to visit Mary at 3 pm tomorrow.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a weekly reminder for Hal to take the trash out every Tuesday by 8 pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me an hour before the 10 a.m. meeting Wednesday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Create a reminder for us to water the plants on Thursdays. R", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set recurring reminders on Thursdays that John works Green Parrot during the day now", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me on Tuesday that I have a unit meeting on Wednesday at 3pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to email tom", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a monthly reminder for the 4th Monday for my quilt club meetings at 7pm", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Sister has hair appointment next Thursday, remind me to pick her up at 6:00 pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I called for an Uber at 5:00 remind me 5 minutes before it arrives", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to bring Jake a book on Thursday; will you remind me an hour before I leave at 4pm?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to set up a meeting for my mom with Pastor on Monday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you send a daily reminder to my husband to take the dog out in the afternoon?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set up reminders one day in advance for all of my existing appts", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you set a reminder to text John that our concert tickers are $153.00 tomorrow at 9 am.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you remind my daughter to buy a birthday card for her father?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I'd like a reminder for my breakfast with dad.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly reminder for lunch with Kim on Saturdays at noon", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to switch cars with Matthew on Friday at 8PM. Can you remind me.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind mom to buy avocados today", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to set up a daily reminder for both of us to turn off our house lights.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a reminder for my brother regarding golf", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder to go out with Roy on next Saturday afternoon.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to \"\"Spend Time With God\"\" @ 6p everyday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a biweekly reminder to email my coworkers about paycheck disbursement.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind my husband that it's our anniversary tomorrow", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder 15 minutes before my 11:00 meeting with Raul for this Thursday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you remind my husband to buy our son a bike on Thursday?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder for the meeting with our sister company for August 24th at 2:00 pm", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder for my son every day to take out the trash", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to reply Amber and tell her we can meet on Sunday around 3 PM.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to send out the email in 15 minutes.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me about my date tomorrow with Eric", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to forward the email to Rebecca on Monday morning.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind my husband that we have date night this weekend.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to meet with my daughter for lunch on Aug. 18, 2018, at 1:00 PM.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind mom and dad to leave at 5, alert them 15 mins before.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Create a new reminder to email Brad with wedding updates each Monday at 3pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a reminder for me to go to dinner with Terri and Jackie tomorrow night at 5 pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me about dinner with Jaemar and Blessing on Sunday at 4pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly reminder to email the landscaper to mow the lawn.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set up an reminder to email Clea", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to send statements to committee members Wednesday morning.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me of my appointment with the farrier on Saturday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder for Evan to email Conor tomorrow", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me on Sunday that I have brunch with Julian and Michelle.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to text Shane once a month.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to send an email to Zappos about shoes that have not arrived from an order I placed.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set a reminder to have lunch with Cristina on Frida at 12pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Send a reminder to my daughter to turn on  the water sprinkler today evening at 6 PM.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me about dinner with Tom", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind my cousin that she is doing my hair Saturday morning at 10AM EST .", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a weekly reminder for my husband to mow the lawn starting on Sunday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need a reminder to have drinks with Phil and Doug tonight", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to forward the email to Rebecca on Monday morning.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind my husband to get milk", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set a reminder for my sister to take her medication tomorrow morning at 8am", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to email everyone back tonight.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me to text nic at 5 pm", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remind my brother to bring 3 bags of ice at tomorrow's potluck", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind my son to bring his things for school next week.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a reminder for my lunch meeting with Bob on August 8 at 12:30.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind my son to cut the grass after school on Tuesday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Send my aunt a reminder about the plane leaving tomorrow at 11", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to send Tom an email tonight, can you remind me at 7p?", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a reminder for my sister to pay her half of the rent on Friday", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Set up a reminder for my husband to visit his mom at 6 pm tonight.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to schedule the meeting with my team.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me for play date with Sarah and Katie on Thursday.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Make sure I'm awake at 2 PM so that I don't miss my lunch appointment with my friend 3 PM", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind my husband to pick up the kids at 3pm.", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set a reminder for my kid bd", "tgt": "create reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show me my reminders from my daughter the week of the 12th", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Get reminders for purchase and for use of swimming pool chemicals.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What does my reminder say about Aunt Nellie?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What date do I have my dentist appointment reminder set for?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Do I have any reminders for Sunday school this week?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What is type of appointment in the reminder for July 12", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What are my reminders for this week.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Find all my credit reminders due for the August", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "my reminders for today", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me the reminder to pick up dry cleaning", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show my reminder to schedule my mom's vacation trip next year", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me my reminder list.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please tell me about all my reminders for the day", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Do I have any reminders today", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "what reminders do I have for friday", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Display all of my reminders for the next month, please", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Pull up all reminders for dinner plans with the wife this month?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Do I have anything on my reminders for tomorrow night", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "list my reminders for next sunday", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please pull up all our fuel reminders for monday evening", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show me my reminders for the day please", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please show me reminders about my dental appointment for tomorrow", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "How many reminders do I have for tomorrow?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What is my reminder for the week?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show all reminders", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show my weekly reminder list", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show my saturday reminders", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminders do I have for tomorrow?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Do I have any reminders this week", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What are my reminders for the holiday weekend", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminders do I have about chores?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What facebook reminders do I have this week?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "On Monday what reminders do I have?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "what are my reminders this week?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show Paul and me  the reminder of Spencer Tracey's next appointment?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all reminders for today.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all my pet reminders for the month.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show my active reminders", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "did I miss any reminders for today", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "display my reminders to exercise this week.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please read to me the reminder reguarding the retirement party for Pastor Paul.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "All reminders for mom's meds please", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "tell me what reminders are set", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all birthday reminders for August.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all reminders for Friday", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me my reminder", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminders do I have?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What are my family get together reminders for this month?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show me all reminders for the month", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What are my reminders for the week?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Find all the reminders for the family group.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show my reminders for this week", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it possible to see all my due-date reminders for the next four months?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Get all my reminders for cleaning service appointments", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show cat food reminder", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me the reminder for percussion practice for the rest of August", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Find all reminders for my car maintenance in the month of May", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me the list of my reminders", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What's my next reminder?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminders do I have for Thursday?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Do I have a reminder set for the meeting on Monday?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me reminders set for 15 minutes before meetings", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What's the reminders today?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "do I have any reminders for next month?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show me reminders about dry cleaning location and opening hours", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Did I set any reminders for my class reunion meetings?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "i want to see all my reminders for the next Tuesday", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me my list of reminders.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminders do I have after 5pm today?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminders do I have today?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Pull up the reminders for the dog walking business which are effective Monday at 5", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminders do I have for Friday?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminders do I have for July related to doctor's appointments?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Display my reminders for Friday through Saturday.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please show my work reminders for today", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please show reminders when to get my dog's vaccinations", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show all my reminders.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What are next month's reminders for the study group?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Let me see all my reminders for Thursday", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Display all reminders involving shopping tomorrow", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What shopping reminders do I have for the next two weeks?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "List out all of my dinner date reminders for September.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you show me the breakfast reminders?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Were you supposed to remind me to do anything", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show all reminders for last week", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What are my regualar weekly reminders?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminders did I put down regarding the meeting with Mr. White?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "List all my reminders for today", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Do I have any reminders tomorrow?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminder is set for tomorrow at 2 P.M.?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "what do i need to be reminded of", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What are me reminders for Thursday morning with Troy?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "List reminders by priority", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you check if I have a reminder for choir practice?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminders do I have for Tuesday after 11 am?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What are my reminders for November 7th?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Get all of my reminders for pool dates with Blaire", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Do I have a reminder set for today?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me my pet reminders for friday", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Find me the work reminder with my friend Kelly for lunch", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "what reminder do I have next?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "find all reminders that are set before 5pm this month", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to see all of my reminders for the Christmas holiday season.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "find all reminders for the Nashville group for the next month", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me all the reminders about the grocery list that you have", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show me the reminders for the kitchen volunteer schedule this month", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Read all my reminders for today.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all reminders for next week.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "read me my last reminder", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Do i have any weekly reminders", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show me the reminders for jims dentist schedule this month", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you show me my reminders for the next two weeks?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "read me my reminders", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all my reminders for September 1st.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show me all reminders for next Tuesday", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me what my reminders are", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me all the reminders I have for Sunday", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me what reminders I have for family.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all reminders for the month of August", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show me reminders for next two days", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "List reminders", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show my first reminder.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me the reminders I have for the rest of the day.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all my reminders from Thursday.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show all reminders for this week.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show reminders for all check ups for max and steven", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please list Friday's reminders", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all my reminders please", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "list all my reminders for the month of December.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me my reminders", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show Tim's reminders for his medications", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show family reunion reminders", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all reminders about client meetings for November", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show me all reminders for April", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Read my reminders", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "do i have any scheduled reminders with Kohler this month", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show all reminders for college choir practice", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all my doctor appointment reminders for August.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all my outdoor reminders for the upcoming month", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show my reminder to buy Chipotle for dinner tomorrow night", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please show me all reminders for today", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "show me Saturday's reminders", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me what reminders I have set for this week?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show all reminders for World of Warcraft raid times this week.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all reminders for next week.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I want to see my reminders for the the meetings scheduled this week.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Do I have any lunch reminders with Kirbi?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I want to pull up all of the reminders labeled Micheala", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me my family reminders today", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me reminders for today.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me what reminders I have for bills?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Find me all the reminders about my upcoming high school class reunion", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Open reminder for pills at 5 pm", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me my reminders for Friday", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Play out all of my reminders for today", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me the reminders for my doctors appointments.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me all the reminders i set for July 4th last year.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "send me all reminders about the upcoming baby shower", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can I see all the reminders from this past month?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminder is my date with Bill this Friday?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me the last reminder I have for Friday of this week.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me my next animal reminder.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Check reminders for places I have had lunch with Sarah at before", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show my husband's reminder.", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Do i have any reminders for my husband", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "please update me on my next 3 reminders for work meeting", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "please display all of my the reminders for my wife and I", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What reminders do I have with Bob?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "what is my next reminder", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Show the my last reminder", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "do i have a reminder to meet up with todd this weekend?", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please show me reminder about dinner dates with my kids this week", "tgt": "get reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the reminder about making my card payment.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete all reminders for Christmas.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "clear all reminders", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove the alert about the delivery appointment for later today.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Erase my reminder for my dentist appointment", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete all reminders to purchase supplies from Darice", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Get rid of the reminder for 5 pm medications", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete reminder for my 3pm interview with the Mayor.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "cancel my reminder for tonight", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Stop reminding me about Marsha's wedding.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete all reminders for the first day of the month.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete my lunch reminder that is set for tomorrow.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I don't need the reminder for choir this Sunday.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "please delete all reminders with Sara", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete the reminders set for this morning", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the reminder for the game on Sunday.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the reminder about my pills.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the reminders I had for Saturday.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete that reminder", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the reminder about Cherese's baby shower at 5pm", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "get rid of all reminders about bike riding", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to delete this reminder.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel my reminder on thursday", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete my next week's physiotherapy session reminder.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Get rid of that reminder", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete the reminder for tomorrow", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you remove the reminder regarding the lunch tomorrow at noon", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel my reminder to pick up shoes", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete next week's reminders", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "No more have a reminder for fixing the disposal, yay.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel all reminders for today.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "please delete reminder for Danica's birthday party on Sunday", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the reminder for Johns dinner", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel term paper reminder.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete my reminder about going bowling this Sunday because I canceled.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete my reminder to drink water", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the school reminder", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete all the reminders created to get the school project done", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the reminder for our beach trip on Saturday", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove the reminder to pick up dog food.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remove my all my alerts on my grocery lists", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel reminder for the races", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Shut off the reminder about mailing thank you notes", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel the reminder for the party on Saturday.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the appointment alert for my spa massage.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete reminder", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel my Tuesday reminder.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete my reminder about picking up Randy tonight.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel the reminder that my fish needs to be fed tomorrow.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "cancel my last reminder", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove all reminders", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete all reminders today", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I missed my final exam, please remove the reminder", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "cancel all reminders pertaining to the wedding", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel my last reminder.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel my reminder to meet dad for dinner tonight.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Forget reminder for tomorrow.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove the reminder to take sister out dancing at 6:30 pm.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel the reminder about the funeral next Wednesday.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete mondays reminders", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete reminder for Friday night's event.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel my reminder for the doctor on the 15th of this month", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "i had to cancel my dentist appointment, can you delete the reminder", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "cancel my reminder to get cheese and crackers", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel all of my reminders for Saturday before noon.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I won't need the reminder to buy dog food for the next 2 weeks", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete reminder for the 5K run next Saturday.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete the reminder to send out the party invitations for mitch's baseball themed party", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete my bookclub meeting reminder that is coming up on Friday night.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remove the reminder to invite rachel's mom to the ladie's party", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "The reminder for checking the mail Friday needs to be cancelled", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel the reminder to order pizza", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please delete the reminder to drop off my library book.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please remove picking up present from my to do list next week", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete all reminders for yoga class", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I don't need the reminder to buy more vellum paper anymore", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Get rid of the reminder for next week to get the cat flea medicine", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you delete the reminder that I asked you to set, to clean the attic this weekend?", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "cancel my reminder for dog food tonight", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel the reminder for feeding the cat today.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete reminder for dinner party next Sunday.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel my reminder for concert tickets", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete all reminders.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "get rid of reminders", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete reminder for bake sale", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete daily reminders of going to the bathroom", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the Jason does laundry reminder.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete returning the library book reminder.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the reminder for Grandma's doctor appointment.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete my reminder about the party this weekend", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel my reminder to wake up at 12:00", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove the my reminder for Friday's doctor's appointment at 10:00 am", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete the reminder about the event this weekend", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you remove my reminder to feed the neighbor's cat for next week?", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please delete the reminder to take the clothes to the cleaners today", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove any reminders with 'John Haskens' in them", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete reminder to get dog food.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you get rid of the reminder for garlic that I set for 2pm.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please delete my reminders for Thursday.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete reminder to water my sisters plants", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Wednesday's meeting was cancelled, delete the reminder.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "turn off all reminders for today", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete my reminder to email our pastor tomorrow afternoon.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove all reminder alerts for Monday.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you remove all reminders for the rest of the day", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove all the reminders I currently have set", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete all reminders for today", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete all reminders for Sunday", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete the reminder about going to the yankee game at 6pm as its now been cancelled", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel all reminders for today only.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete all of my Friday reminders", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Erase all reminders for today", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove all weekly reminders.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete all my reminders for July 16th.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please could you delete all of the reminders that I have set up for next week", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete all my reminders for next Wednesday.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Turn off all reminder alerts for the next day.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please remove all future reminders about dance classes from the schedule", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please delete the reminder for Lunch with Suzie on Saturday", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove my weekly reminders to meet with the landlord.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove all the reminders about the library this week.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "please delete all of my reminders", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Clear all my wake up reminders in the morning of next week", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "can you delete all the reminders for the family reunion", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete all reminders that are scheduled to notify me on a daily basis.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete all pet reminders", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remove all reminders  regarding emails to ron", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Get rid of the reminder to go to the movies with Pauli on Sunday.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to erase this Friday's reminder for dinner with my sister", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove all reminders about Merlin.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Get rid of the latest reminder I set", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "clean all reminders", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remove all the reminders this weekend.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel the alert on my reminder about lunch with Donna on Thursday", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Please delete all reminders for me to go through my old emails.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete my dinner reminder with Katie and Maureen for next Monday evening.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete my two most recent reminders about going camping with Ted", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "cancel the last reminder i made", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete reminder for tomorrow's 6pm dinner date with Angel.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the last reminder I gave you", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete reminder to email soccer team about game", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Clean out all reminders for dates with John", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the reminder about watching the movie with Carlos on Saturday.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the reminder to email Janet.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete all weekly reminders for meetings with my team", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel my reminder to email Matt", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "I don't need the reminder in November about going camping with Janis.", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel my reminder to text Dad", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "remove my weekly reminder to play video games with chad", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "delete reminder to text JT", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Delete the reminder to email Vistaprint about the business cards", "tgt": "delete reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my reminder to wake me at 5 AM", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Uptdate the reminder for my haircut to Sunday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Make the 3 PM reminder for Friday, Saturday instead", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Setup a reminder to check my blood pressure at noon rather than early morning.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "move my reminder to meet Kait for lunch to Monday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my daily reminder for the business call from 10am PST to 10am EST.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Modify event reminder to Wednesday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "change my reminders for tomorrow to wednesday for all my meetings", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my reminder to file my taxes from Thursday to Friday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my grocery list reminder from today at 5pm to tomorrow at 6pm.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Please remind us 40 minutes before the moving reminder on October 12th not 30 minutes before.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Please edit my appointment reminder for two weeks from today.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder about my son's practice from Monday to Thursday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder to take out the trash from Wednesday to Thursday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change dentist reminder to Friday at noon", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Set wake up alert to 5 instead of 6am.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Make my reminder to exercise at 3 PM instead of 4 PM for today only.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "move my massage appt reminder down to 5 pim on tuesday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to change the date of the auction reminder from September to October 15th", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Please update the soup reminder to before Tuesday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Please change my Tax Filing reminder from monthly, beginning in February, to weekly, beginning in March.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you change the time of my reminder for dentist to 3.00 pm?", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "change reminder for family reunion to the next week", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder for my live streaming session to be the third Thursday of the month at 4:49pm.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Update the reminder for Ron's Monday's soccer practice to 3pm", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Update my pt reminder to 2 hrs before I have to leave", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Move my doctor appt reminder to Monday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me about Pauline's anniversary on Thursday instead of Tuesday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "revise the dart team reminder to to friday night", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my pedicure reminder on Tuesday to Wednesday at the same time.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Move the regular group meeting reminder this week from Wednesday to Thursday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my reminder for the doctor's appointment to 3 pm.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Update the Bikes and Balls reminder to 930am next Tuesday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "I need to change the reminder I have for picking up the prescriptions from Saturday to Sunday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder for Beth's baby shower to 4 pm.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "change office meeting reminder to Wednesday 10am", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder for working the snack stand to Thursday rather than Tuesday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Update the reminder for Ernie to text Bert about the baseball game from 7 AM today to 8 AM today.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder for girls night to next Saturday please", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Update reminders for tomorrow", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder to Sunday evening", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you move today reminder to Friday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "change the reminder for the sox game from today to tomorrow", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "update reminder to 9", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Add to the dinner reminder on Sunday that it's at 1 pm.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change all reminders to be one hour later", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Move my 8 pm reminder to 530", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Reschedule my reminder for my dentist appointment, for next Friday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the swimming party reminder to next month, the date to September 4", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change reminder for doctor on Wednesday to Thursday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Modify the reminder to meet Roy for our date from this Saturday to next Saturday night.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "My friend changed our yard sale to next Thursday, please update my reminder", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change Tuesdays reminder about Maggie to Friday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Instead of reminding me on Thursday, can you remind me on Friday?", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder to meet Tom to 1:30pm.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "update the reminder about my Thursday meetings and change the time from 4:30pm to 5pm", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you modify my reminder for football from tomorrow to Thursday?", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change guitar repair reminder to September 3rd at the same time", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "change reminder for hair appointment from 12pm to 6pm", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the Open House reminder for my house listing from this Sunday to next week Sunday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Move our reminder about tomorrow's work meeting to Friday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "change reminder for bible study to thursday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "update the meeting reminder to 4pm tomorrow", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder that bible study starts again on September 5th instead of the 17th", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Would you change the reminder for the doctor's appointment to Monday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Make all of the lawn service reminders for 12 noon not 4 pm.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "I would like to move up the alert by a day for the reminder to mail my tax payments.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my street sweeping reminder for 10am.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "I am not defending my Thesis tomorrow at 4 pm again; kindly change the reminder to next week Tuesday at 4 pm.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change reminder to show Wednesday instead of Thursday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my yoga class reminder to Monday evening at 5", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "can you change reminder for tuesday dinner from 6 to 7", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Let's change the reminder about the jogging club meeting to start on Sunday instead of Monday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you alert me 10 minutes before the show instead of 5 minutes?", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "shuffle the reminders around so that hip hop class is wednesday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Alert me 15 minutes before my group meeting reminder is set.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Cancel this weeks reminder for the concert and change it to next weekend", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change today's Uber pickup call reminder from 3 pm to 6 pm", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me to return my library books on Tuesday instead of Wednesday next week.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change dinner reminder to 6pm.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me of my appointment with Dr Seals on Wednesday instead of Tuesday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "please update softball practice reminder time from 4 to 7", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change reminder about potluck from August to September.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my haircut reminder from Mon 3pm, to Fri at 2pm.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my reminder for our dinner date from 6pm to 8pm today", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "for the reminder at 10 pm can you please change it to 11pm", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Move today's reminders to tomorrow.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Update the dinner reminder to Monday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my reminder about my oil change from Monday to Wednesday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Move the reminder for the dog grooming to Saturday.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "reschedule dinner party reminder to one hour later", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder for school registration from May 5 to May 15", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "busy at the office, move the reminder to 7 to meet with the crew", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change reminder for yearly doctor check-ups from the beginning of July to the beginning of August.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "reschedule 4pm reminder to 6pm", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Move the reminder for karate class to Monday instead of Sunday", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Update lunch meeting with Carol to alert me 15 minutes before.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder for my date with Nancy to 8 p.m.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Move the reminder time for the study group meeting next Wednesday to 11 p.m.", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder from 7p to 9p", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Send a reminder change for wine tasting time from 6 PM to 8 PM, to my wife .", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Make the Wednesday dog walk a daily reminder at 7:30pm", "tgt": "update reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Can I change my reminder for 8pm?", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my reminder about getting my car cleaned.", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Change reminder info.", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you change the reminder to take out the recycling every Thursday?", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the doctor reminder from annually to bi-monthly", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "change the alert date for prescription refills for Zay", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Repeat all reminders daily", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "update reminder for weekly group meetings with PTC to bi-monthly", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you change our daily workout reminder to be a weekly reminder instead?", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "change the time on alert today", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Make my manicure reminder a recurring recurring one every other week.", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder for tomorrow", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder about picking Zach up to every weekday at 2:15", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Change Baseball practice reminder to every Wednesday instead of every Tuesday.", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "change my monthly mom dinner reminders to weekly", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "repeat this reminder weekly.", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "please update my monthly reminders to be bi-weekly.", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "reset pay bills reminder", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you make my babysitting reminder be the first of every month rather than every two weeks?", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Change the reminder to send power bill from the 5th to the 1st of each month.", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Alert me for the previous reminder every hour until cancelled.", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Remind me daily at 10am to take my medication and not weekly.", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Update reminder to change oil in my car from every 3 months to every 4 months.", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Add the IT group to the contacts list for the data project reminders.", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "The therapy alert needs to change from Friday to Thursday every week.", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "update my lunch reminder", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "set my workout reminders to every day instead of every other day", "tgt": "update reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is my last reminder?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is the reminder about the dance recital next month?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is the reminder for flight next week?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Is my reminder for tomorrow in the morning?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is the reminder for the charity event?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is the reminder that my subscription is expiring and who to contact at Sirius radio", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my next reminder to give dog medicine?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is the next reminder i have set up for date night", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "for which day did i have a reminder set about getting karly's mail", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my next dental reminder?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "what day is the baseball game reminder set for", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "WHEN IS MY REMINDER TO PICK UP DRY CLEANING?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my conference call reminder?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my reminder for my son's  game?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my next reminder with Bob and Maria?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "remind me when the project is due", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my reminder for my next car oil change?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "what time is my dinner reminder", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "What date is my reminder for dinner with Robert?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "What time and day do I have bus reminders set for?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "What day is the reminder to return those shoes for?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my reminder for the lunch plans I have with Sara?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "when is my lunch reminder?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Time of the hair cut reminder?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is the reminder for Shayla's party", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my reminder for my homework?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my reminder to make flight reservations for our family vacation?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is the dentist appointment reminder?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "for when and for what is my next reminder", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When are my next reminders for school?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my next meeting reminder?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Show me when my reminder for yoga is.", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my reminder for the dentist", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my reminder for my doctors appointment this month?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "Can u tell when my next reminder with Kelli is", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When does my reminder start for lunch?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my reminder for picking up donuts for work?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When's my reminder for the cousin's party next weekend?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When is my reminder for the eye doctor?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "When will the alert for mom's appointment will be off?", "tgt": "get reminder date time", "prefix": "intent classification: "}}
+{"translation": {"src": "What's the location for my meeting reminder on Wednesday?", "tgt": "get reminder location", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you tell me the locations of every work dinner reminders for the next month?", "tgt": "get reminder location", "prefix": "intent classification: "}}
+{"translation": {"src": "Show my the location of my dinner reminder.", "tgt": "get reminder location", "prefix": "intent classification: "}}
+{"translation": {"src": "Where is the dinner taking place that I have a reminder for?", "tgt": "get reminder location", "prefix": "intent classification: "}}
+{"translation": {"src": "Where is my next reminder going to be and at what time?", "tgt": "get reminder location", "prefix": "intent classification: "}}
+{"translation": {"src": "Check my family reunion reminder and tell me where it will be at this year.", "tgt": "get reminder location", "prefix": "intent classification: "}}
+{"translation": {"src": "show the location of the reminder for grandparents 50th anniversary party", "tgt": "get reminder location", "prefix": "intent classification: "}}
+{"translation": {"src": "Is there an address in the reminder for the bowling competition?", "tgt": "get reminder location", "prefix": "intent classification: "}}
+{"translation": {"src": "where is my next reminder with chris", "tgt": "get reminder location", "prefix": "intent classification: "}}
+{"translation": {"src": "Where the location for my reminder about the business meeting this Tuesday?", "tgt": "get reminder location", "prefix": "intent classification: "}}
+{"translation": {"src": "I don't know where are we going in my reminder for Thursday", "tgt": "get reminder location", "prefix": "intent classification: "}}
+{"translation": {"src": "What are the locations of the reminders I have scheduled for this coming Saturday", "tgt": "get reminder location", "prefix": "intent classification: "}}
+{"translation": {"src": "Change concert ticket reminder for tomorrow to include tickets to see Lany as well.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Replace reminder about Harry's dentist appointment at 5:30 pm with reminder about Mom's dentist appointment.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Update my reminder for the meeting next week to include a reminder to bring my report and notes.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "please update the birthday party reminder to include birthday cake for all guests", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Add the HIghlander to the reminder about getting the cars inspected in September.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "change the reminder for Tuesday at 10 AM from meeting time to online meeting time", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Adjust the reminder about baking a vanilla cake this Saturday to baking a chocolate cake.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my grocery list reminder from eggs and butter to pancakes and soap.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Add Bible Study Group to my weekly activities reminder.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Replace step reminder from 5000 steps to 10000 steps daily.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "The reminder that says grocery list, add eggs to that one", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Change my reminder tomorrow to say eggs and pork roll.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Update my reminder for Jimmy's party that he now likes to be called Jim, instead of Jimmy.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Add Kleenex to the reminder about buying toilet paper.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Add milk to my grocery reminder.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "add a note to my Saturday reminder to bring chips", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Please add Barbara's email to the reminder for dinner tonight at 6pm", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Add shampoo and toothpaste to my reminder for packing for vacation.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Please add peanut butter to my grocery reminder", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Please add clean out the fridg to this weekend's TODO list reminder.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "add chapter two to my reading reminder.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Instead of buying clothes, I'll buy presents. change that in this reminder.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Update my alert to get gas after work", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Update my reminder that Chelsea's party is cancelled.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "I need you to add a reminder to text Mom to my travel reminder.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Update my reminder for the meeting next week to include a reminder to bring my report and notes.", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "Modify my Rent Alert to include paying my credit card bill as well", "tgt": "update reminder todo", "prefix": "intent classification: "}}
+{"translation": {"src": "How do I delete my reminders", "tgt": "help reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "How many reminders can one set before the storage is full", "tgt": "help reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "How can I find out if I have any appointment reminders set for my next chirp appointment at 10am August 4th", "tgt": "help reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me how to use reminders", "tgt": "help reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me how to update my reminders by week.", "tgt": "help reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Help me to make a new reminder for the oil change.", "tgt": "help reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "Help me to edit my reminders.", "tgt": "help reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "How do I set up holiday reminders?", "tgt": "help reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "How do I both both text and audio alerts for my reminders.", "tgt": "help reminder", "prefix": "intent classification: "}}
+{"translation": {"src": "How many reminders do I have for August 22?", "tgt": "get reminder amount", "prefix": "intent classification: "}}
+{"translation": {"src": "How many morning reminders do I have for the next four days?", "tgt": "get reminder amount", "prefix": "intent classification: "}}
+{"translation": {"src": "How many reminders are left for this week?", "tgt": "get reminder amount", "prefix": "intent classification: "}}
+{"translation": {"src": "How many reminders do I have for \"\"Family\"\" in the month of June 2019?", "tgt": "get reminder amount", "prefix": "intent classification: "}}
+{"translation": {"src": "How many reminders do I have set up for next week?", "tgt": "get reminder amount", "prefix": "intent classification: "}}
+{"translation": {"src": "How many reminders do I have set up?", "tgt": "get reminder amount", "prefix": "intent classification: "}}
+{"translation": {"src": "how many reminders are set for today", "tgt": "get reminder amount", "prefix": "intent classification: "}}

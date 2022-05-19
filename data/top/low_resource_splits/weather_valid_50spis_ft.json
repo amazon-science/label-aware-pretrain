@@ -1,0 +1,257 @@
+{"translation": {"src": "Tell me the forecast for the west coas", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Do I have to prepare for snow tonight", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Are there any weather advisories for today?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Should I bring an umbrella to the park?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Can I have the 4pm weather report please", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "hows the weather on Saturday?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "weather in Boise right now", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What's the weather forecast for New York?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the temperature outside right now?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "is it going to snow tonight?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "is it raining", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the weather in Alton NH?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "School sports days weather update  please for next Thursday, Saturday and Sunday", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How cold is it in Chicago in degrees celcius", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "what is the high temperature tomorrow", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What was the high temperature on March 29, 2014", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will there be sunshine tomorrow?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Do I need an umbrella today in Louisville?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Any idea about the weather?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "please tell me the weather", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the low temperature for today", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is there a chance of rain tomorrow?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What's the forecast for the weekend?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it sunny in California?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Do I need a coat today?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it be sunny on Friday?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Are we done with the hail?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Should i wear a jacket today", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Please give me a weather update for 3pm", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Weather for current location", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "do i need to wear gloves tomorrow?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Should I bring an umbrella today?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "tell me the weather for Helsby", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "will September have cooler temperatures?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "how cold is it right now", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "what is the average temperature for this month", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "is it going to be windy on the beach today", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How does the forecast look like for Northern England.", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will we have more than 15 centimeters of snow today?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "should i wear  a sweater", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Do I need an umbrella?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it cold outside?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What's the weather like in Orpington at 3pm?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it snow tomorrow morning?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Did it rain in New York yesterday", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "temperature tomorrow", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "When will it rain this upcoming week?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How windy is it?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it supposed to storm tomorrow?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Did it snow last night?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What will the wind speed be in MPH today?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the weather this weekend?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the weather in London", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it going to snow Wednesday night?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Where are the winds coming out of", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How many inches of snow do we have?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "how is the weather this week?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Weather in Las Vegas?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "weekend weather forecast", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "does it look like rain", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "should i wear pants", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How hot will it be today?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "is it cloudy today", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it rain this week?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "is it hot outside", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "how is the weather near me", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will I need an umbrella this weekend?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "current temperature in Freehold, NJ", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me the weather forecast in Paris tomorrow", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it be cold today?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Atlanta weather", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "will it rain today?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is rain in the forecast tomorrow in Denver?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is the weather supposed to be good for hiking this weekend?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How many days will it rain?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "is it windy today?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "When will it rain today?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Should I wear shorts today", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Please inform me of the weather in Thailand ?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "i need the weather for this Saturday 15th", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What does the weather look like in Houston?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the weather like in the Philippines?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it going to rain anytime this week?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me the weather forecast of Kelowna ?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What's the weather like in Spain next week Friday?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "is it snowing in canada", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it be around 24 in degrees F seattle this weekend", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the weather like in Northumberland?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "how hot is it in miami in fahrenheit", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Alabama heat advisory", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How does the weather look in Austin, Texas", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "what's the new york weather forecast for this weekend?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What's the temperature in San Francisco today", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What's the weather like in Salt Lake City, Utah, USA?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will there be storms in Oklahoma today?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the weather like in Culver City?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Give me current up to date weather for New York", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Whats the weather forecast for today in Kent?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Weather forecast in France", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the current weather in NYC?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Portugal weather", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "what will the weather be like in Dallas tomorrow", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Tell me about weather in Toronto next week.", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What's the forecast for Wales in 3 days time?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it raining in Tampa?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the weather like in Denver, CO now", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How hot is it out there today in degrees C", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the current weather in Royal Palm Beach FL?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Whats the forecast in Sussex", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How warm is it at Sao Paulo this weekend in degree F", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it below 1 in degrees celsius tomorrow morning", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature next week in Menlo Park c", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it be above 37 Fahrenheit outside", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature around Paris next week Celcius", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it be around 94 degrees Celcius karachi next week", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it below 0 degree F near Karachi tomorrow", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it be above 39 in degree fahrenheit beijing next week", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it going to be around 89 in degrees C for Karachi tonight", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature beijing next week Fahrenheit", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it be below 68 degree Celcius london next week", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it be below 62 in celcius here today", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it be below 56 in degrees Celcius beijing tonight", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it around 64 degree F shanghai tomorrow morning", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it be above 66 in c in Boston next week", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it going to be below 56 in degrees F out there this weekend", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature palo alto next week Fahrenheit", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How hot is it next week in Paris in degree Fahrenheit", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How warm is it for Paris in Celsius", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature chicago tonight fahrenheit", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature tomorrow morning in Menlo Park Fahrenheit", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature tonight sao paulo c", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How hot is it in celcius?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature tomorrow near New York C", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How hot is it tomorrow mumbai degree f", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature around Boston C", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature around Manila next week Celsius", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it around 74 in degrees Fahrenheit in London today", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it going to be below 30 in degree C near New York next week", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it be around 82 degree F around Dublin this weekend", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How hot is it tomorrow in Tokyo in C", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature tonight Celsius", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature chicago this weekend celcius", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "I want to know this mornings weather in celcius", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature around Tokyo today f", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "In what Fahrenheit is the weather be?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it around 67 Celcius at Manila tomorrow morning", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it above 98 in degrees f san francisco next week", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How warm is it this weekend at Manila in degrees c", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it around 29 in degree c tomorrow", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Temperature around New York today C", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How cold is it seattle this weekend fahrenheit", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it going to be above 64 in celcius for Houston next week", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What degrees Fahrenheit is it outside?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Can you tell me the temperature in Dehli in degrees C", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Is it below 76 in degrees c dehli tomorrow", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How is the weather here?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How many centimetres of rain should we expect tomorrow?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Should I take an umbrella to work?", "tgt": "get weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What time does the sun rise", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "when does the sun rise", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time does the sunrise today", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is sunrise", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is sunrise tomorrow", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "when is sunrise in LA", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "at What time is sunrise tomorrow", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time does the sunrise tomorrow in New York", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "Hours left before sunrise please?", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time was sunrise this morning", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time does the sun come up in Colorado Springs", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "when is sunrise", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is sunrise", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is sunrise", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time will the sun rise on Thursday", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time does the sun rise tomorrow", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "When is dawn on Thursday", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "what time will the sun rise", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "what time does the sun rise tomorrow", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is sunrise?", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time does the sun rise", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is sunrise in pakistan", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is sunrise", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "When does the sun rise in the Winter", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "When will the sun rise", "tgt": "get sunrise", "prefix": "intent classification: "}}
+{"translation": {"src": "When will the flash flood warning end", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the hottest day on record for July 3rd in Virginia", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How much snow have we had so far this year", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Are the roads slick outside", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the hottest city in America today", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "when is Hurricane season", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How much snow is at the top of Mount Everest", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "what's is the hottest temperature ever recorded on earth", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How cold will it be in Australia in December", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "what day will be best for the beach this week", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How often does is snow in Greenville, NC", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "how much rain did New Orleans get", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the average temperature for Charlotte, NC In July", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the dew point?", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Can I go to the playground today ?", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What are Louisville, Kentucky's record-breaking days in weather this year", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the barometer at", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What are the road conditions right now", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the pollen count like today?", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "when is the first frost", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Where is the chilliest place on Earth right now", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "it isn't raining", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "when does hurricane season end", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "We're planning a trip to Greenland.  Weather-wise, when would be the best time of year to go", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "When is hurricane season", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "when is high tide in tampa bay", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the best day next week to plan an outdoor activity", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "what is the coldest weather on record", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "When is the best time to mow the yard tomorrow", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What's the dew point", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is hail", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "what moon phase are we in", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "When was the last time it snowed in Fort Worth, TX", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "When is the average first and last hard freeze for Boulder", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Could the Giants game be rained out today", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "is it hotter in mexico or canada", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the weather where Luke is", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "what is the average temperature in Maui", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "how many days of summer are their this year", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Did the Perseid Meteor Shower begin", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is today's dew point?", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Hows the weather supposed to be for Sundays game", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Did it rain today, last year", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "what is humidity", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "When does the Tornado watch in Cleveland County end", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "How much rain did we get this month", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What is the warmest city in the US right now", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "Will it be warm enough outside to go swimming?", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "When is hurricane season", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "is the air quality affected by weather today", "tgt": "unsupported weather", "prefix": "intent classification: "}}
+{"translation": {"src": "What time will the sunset this evening", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "When will the sun set in Utah", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "what time is the sun setting today?", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is sunset tonight?", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "WHAT TIME IS SUNSET TONIGHT", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "when is sunset in Hawaii", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is dusk tomorrow", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "what time does the sun set", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "What time does the sun set", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "when does the sun go down in califronia's winter", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "when does the sun go down in Seattle", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "what time is sunset tonight", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is sunset", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is sunset", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "what time does the sun set in portland today", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "what time is the sunset", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is sunset", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "What time is the sun setting tonight", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "When is sunset", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "When is sunset today", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "When does the sun set", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "What time does the sun set tonight", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "what time does it get dark out", "tgt": "get sunset", "prefix": "intent classification: "}}
+{"translation": {"src": "What time does the sunset in NY?", "tgt": "get sunset", "prefix": "intent classification: "}}
