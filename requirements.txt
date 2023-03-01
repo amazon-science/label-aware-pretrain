@@ -18,7 +18,7 @@ mkl-fft==1.3.0
 mkl-random @ file:///tmp/build/80754af9/mkl_random_1618853849286/work
 mkl-service==2.3.0
 multiprocess==0.70.11.1
-mxnet==1.8.0.post0
+mxnet==1.9.1
 numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1618497241363/work
 olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
 packaging==20.9
